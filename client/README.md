@@ -951,3 +951,4 @@
 # [alveena96] Clean formatting — 2026-02-12 13:29
 # [alveena96] Improve error messages — 2026-03-03 12:53
 # [alveena96] Fix small UI glitch — 2026-02-25 10:01
+# [alveena96] Improve README clarity — 2026-02-23 17:21
