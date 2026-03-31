@@ -967,3 +967,4 @@
 # [alveena96] Clean code formatting — 2026-03-17 17:23
 # [alveena96] Update comments — 2026-04-13 09:28
 # [alveena96] Improve usability — 2026-01-25 13:01
+# [alveena96] Improve error messages — 2026-03-31 12:10
